@@ -58,4 +58,4 @@ command.
 Enjoy!
 
 
-The Full article About the project i have done can be found here : [Medium LINK ](https://www.google.com)
+The Full article About the project i have done can be found here : [Medium LINK ](https://medium.com/@mohammedshahbaazshareef/aws-cdk-with-python-alb-fargate-flask-d190d4d9f66f)
